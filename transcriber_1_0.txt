@@ -1,0 +1,10 @@
+╭━━╮╱╭━┳╮╱╱╱╭━╮╱╱╱╱╱╱
+┃━━╋━┫━┫╰┳┳╮┃╋┣╮╭┳┳━╮
+┣━━┃╋┃╭┫╭┫┃┃┃╭┫╰┫┃┃╋┃
+╰━━┻━┻╯╰━╋╮┃╰╯╰━┻━╋╮┃
+╱╱╱╱╱╱╱╱╱╰━╯╱╱╱╱╱╱╰━╯
+softy_plug
+
+transcriber_1_0 - software for transcribe video to text
+
+.exe file and repository must be in same directory with video files
